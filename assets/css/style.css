@@ -476,6 +476,7 @@ padding: 0 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 5px;
 }
 .mobile-menu-category-list .menu-category{
     border-bottom: 1px solid var(--cultured) ;
@@ -484,7 +485,7 @@ padding: 0 15px;
     color: var(--anyx);
     font-size: var(--fs-6);
     font-weight: var(--weight-500);
-    padding: 12px 0;
+    padding: 12px 7px;
 }
 .accordion-menu > div{
     font-size: 10px;
